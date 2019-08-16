@@ -1,5 +1,5 @@
 # Disgen-Pattrens
-This files contains commen-use DisgenPattren writen in php 
+This files contains  common-use Design Patterns written in php 
 [ 
   Command Pattern,
   Observer Pattern,
